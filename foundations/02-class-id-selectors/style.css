@@ -1,0 +1,21 @@
+.Number-1,
+.Number-3,
+.Number-5 {
+    background-color: rgb(248, 182, 204);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#number-2 {
+    color:Blue;
+    font-size: 36px
+}
+
+.Number-3 {
+    font-size: 24px;
+}
+
+#number-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
